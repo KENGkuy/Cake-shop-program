@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProjGit\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj": {}
+    "D:\\source_code\\New folder (2)\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj": {}
   },
   "projects": {
-    "D:\\ProjGit\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj": {
+    "D:\\source_code\\New folder (2)\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjGit\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj",
+        "projectUniqueName": "D:\\source_code\\New folder (2)\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj",
         "projectName": "Cake shop program",
-        "projectPath": "D:\\ProjGit\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj",
-        "packagesPath": "C:\\Users\\PRWz\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjGit\\Cake-shop-program\\Cake shop program\\obj\\",
+        "projectPath": "D:\\source_code\\New folder (2)\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj",
+        "packagesPath": "C:\\Users\\JP\\.nuget\\packages\\",
+        "outputPath": "D:\\source_code\\New folder (2)\\Cake-shop-program\\Cake shop program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PRWz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
