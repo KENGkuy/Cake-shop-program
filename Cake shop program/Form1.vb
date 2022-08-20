@@ -6,17 +6,17 @@
         c = 130
         d = 140
         f = 150
-        'If CheckBox1.Checked Then
-        total += a
+        If CheckBox1.Checked Then
+            total += a
             count += 1
 
         End If
-        ' If CheckBox2.Checked Then
-        total += c
+        If CheckBox2.Checked Then
+            total += c
             count += 1
         End If
-        'If CheckBox3.Checked Then
-        total += d
+        If CheckBox3.Checked Then
+            total += d
             count += 1
         End If
         'If CheckBox4.Checked Then
