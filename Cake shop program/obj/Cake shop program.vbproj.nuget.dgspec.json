@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source_code\\New folder (2)\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj": {}
+    "E:\\งาน\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj": {}
   },
   "projects": {
-    "D:\\source_code\\New folder (2)\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj": {
+    "E:\\งาน\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source_code\\New folder (2)\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj",
+        "projectUniqueName": "E:\\งาน\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj",
         "projectName": "Cake shop program",
-        "projectPath": "D:\\source_code\\New folder (2)\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj",
-        "packagesPath": "C:\\Users\\JP\\.nuget\\packages\\",
-        "outputPath": "D:\\source_code\\New folder (2)\\Cake-shop-program\\Cake shop program\\obj\\",
+        "projectPath": "E:\\งาน\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj",
+        "packagesPath": "C:\\Users\\GRX\\.nuget\\packages\\",
+        "outputPath": "E:\\งาน\\Cake-shop-program\\Cake shop program\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\JP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\GRX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0-windows7.0"

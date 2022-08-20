@@ -43,34 +43,34 @@
             total += f
             count += 1
         End If
-        'If CheckBox10.Checked Then
-        total += a
+        If CheckBox10.Checked Then
+            total += a
             count += 1
         End If
 
         TextBox1.Text = total
         Label2.Text = count
 
-        'If RadioButton1.Checked = True Then
-        TextBox1.Text = Val(TextBox1.Text)
+        If RadioButton1.Checked = True Then
+            TextBox1.Text = Val(TextBox1.Text)
         ElseIf RadioButton2.Checked = True Then
-        'TextBox1.Text = Val(TextBox1.Text) + 50
+            TextBox1.Text = Val(TextBox1.Text) + 50
         End If
 
         Dim g As Integer
         If Val(ListBox1.SelectedItems.Count) Then
             ListBox1.Text = g
         End If
-        'TextBox2.Text = ListBox1.SelectedItem * Val(TextBox1.Text)
+        TextBox2.Text = ListBox1.SelectedItem * Val(TextBox1.Text)
 
         DataGridView1.Rows(0).Cells(3).Value = Val(TextBox2.Text)
-        ' DataGridView1.Rows(0).Cells(2).Value = ListBox1.SelectedItems
+        DataGridView1.Rows(0).Cells(2).Value = ListBox1.SelectedItems
         If RadioButton1.Checked = True Then
-            ' DataGridView1.Rows(0).Cells(1).Value = "1/2ปอนด์"
+            DataGridView1.Rows(0).Cells(1).Value = "1/2ปอนด์"
         ElseIf RadioButton2.Checked = True Then
-            ' DataGridView1.Rows(0).Cells(1).Value = "1ปอนด์"
+            DataGridView1.Rows(0).Cells(1).Value = "1ปอนด์"
         End If
-        'DataGridView1.Rows(0).Cells(0).Value = Val(Label2.Text)
+        DataGridView1.Rows(0).Cells(0).Value = Val(Label2.Text)
 
     End Sub
 
