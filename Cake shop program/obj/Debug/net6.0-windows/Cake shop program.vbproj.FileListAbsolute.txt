@@ -1,0 +1,17 @@
+D:\ป.ตรี\VB ม่วง\Cake shop program\Cake shop program\bin\Debug\net6.0-windows\Cake shop program.exe
+D:\ป.ตรี\VB ม่วง\Cake shop program\Cake shop program\bin\Debug\net6.0-windows\Cake shop program.deps.json
+D:\ป.ตรี\VB ม่วง\Cake shop program\Cake shop program\bin\Debug\net6.0-windows\Cake shop program.runtimeconfig.json
+D:\ป.ตรี\VB ม่วง\Cake shop program\Cake shop program\bin\Debug\net6.0-windows\Cake shop program.dll
+D:\ป.ตรี\VB ม่วง\Cake shop program\Cake shop program\bin\Debug\net6.0-windows\Cake shop program.pdb
+D:\ป.ตรี\VB ม่วง\Cake shop program\Cake shop program\obj\Debug\net6.0-windows\Cake shop program.vbproj.AssemblyReference.cache
+D:\ป.ตรี\VB ม่วง\Cake shop program\Cake shop program\obj\Debug\net6.0-windows\Cake_shop_program.Form1.resources
+D:\ป.ตรี\VB ม่วง\Cake shop program\Cake shop program\obj\Debug\net6.0-windows\Cake shop program.vbproj.GenerateResource.cache
+D:\ป.ตรี\VB ม่วง\Cake shop program\Cake shop program\obj\Debug\net6.0-windows\Cake shop program.GeneratedMSBuildEditorConfig.editorconfig
+D:\ป.ตรี\VB ม่วง\Cake shop program\Cake shop program\obj\Debug\net6.0-windows\Cake shop program.AssemblyInfoInputs.cache
+D:\ป.ตรี\VB ม่วง\Cake shop program\Cake shop program\obj\Debug\net6.0-windows\Cake shop program.AssemblyInfo.vb
+D:\ป.ตรี\VB ม่วง\Cake shop program\Cake shop program\obj\Debug\net6.0-windows\Cake shop program.vbproj.CoreCompileInputs.cache
+D:\ป.ตรี\VB ม่วง\Cake shop program\Cake shop program\obj\Debug\net6.0-windows\Cake shop program.dll
+D:\ป.ตรี\VB ม่วง\Cake shop program\Cake shop program\obj\Debug\net6.0-windows\refint\Cake shop program.dll
+D:\ป.ตรี\VB ม่วง\Cake shop program\Cake shop program\obj\Debug\net6.0-windows\Cake shop program.pdb
+D:\ป.ตรี\VB ม่วง\Cake shop program\Cake shop program\obj\Debug\net6.0-windows\Cake shop program.genruntimeconfig.cache
+D:\ป.ตรี\VB ม่วง\Cake shop program\Cake shop program\obj\Debug\net6.0-windows\ref\Cake shop program.dll
