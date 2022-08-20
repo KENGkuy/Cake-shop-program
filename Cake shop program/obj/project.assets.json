@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ป.ตรี\\VB ม่วง\\Cake shop program\\Cake shop program\\Cake shop program.vbproj",
+      "projectUniqueName": "D:\\ป.ตรี\\VB ม่วง\\Cake shop programs\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj",
       "projectName": "Cake shop program",
-      "projectPath": "D:\\ป.ตรี\\VB ม่วง\\Cake shop program\\Cake shop program\\Cake shop program.vbproj",
+      "projectPath": "D:\\ป.ตรี\\VB ม่วง\\Cake shop programs\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\ป.ตรี\\VB ม่วง\\Cake shop program\\Cake shop program\\obj\\",
+      "outputPath": "D:\\ป.ตรี\\VB ม่วง\\Cake shop programs\\Cake-shop-program\\Cake shop program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
