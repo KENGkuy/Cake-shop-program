@@ -19,8 +19,8 @@
             total += d
             count += 1
         End If
-        'If CheckBox4.Checked Then
-        total += f
+        If CheckBox4.Checked Then
+            total += f
             count += 1
         End If
         'If CheckBox5.Checked Then
