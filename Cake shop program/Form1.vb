@@ -23,8 +23,8 @@
             total += f
             count += 1
         End If
-        'If CheckBox5.Checked Then
-        total += a
+        If CheckBox5.Checked Then
+            total += a
             count += 1
         End If
         'If CheckBox6.Checked Then
