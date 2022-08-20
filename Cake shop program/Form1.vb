@@ -6,8 +6,8 @@
         c = 130
         d = 140
         f = 150
-        'If CheckBox1.Checked Then
-        total += a
+        If CheckBox1.Checked Then
+            total += a
             count += 1
 
         End If

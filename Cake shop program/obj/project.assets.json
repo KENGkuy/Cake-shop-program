@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\Asus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ป.ตรี\\VB ม่วง\\Cake shop programs\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Documents\\GitHub\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj",
       "projectName": "Cake shop program",
-      "projectPath": "D:\\ป.ตรี\\VB ม่วง\\Cake shop programs\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\ป.ตรี\\VB ม่วง\\Cake shop programs\\Cake-shop-program\\Cake shop program\\obj\\",
+      "projectPath": "C:\\Users\\Asus\\Documents\\GitHub\\Cake-shop-program\\Cake shop program\\Cake shop program.vbproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Asus\\Documents\\GitHub\\Cake-shop-program\\Cake shop program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
