@@ -27,8 +27,8 @@
             total += a
             count += 1
         End If
-        'If CheckBox6.Checked Then
-        total += b
+        If CheckBox6.Checked Then
+            total += b
             count += 1
         End If
         'If CheckBox7.Checked Then
